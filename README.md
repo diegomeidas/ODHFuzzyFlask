@@ -1,1 +1,1 @@
-# ODHFuzzyFlask
+API Fuzzy python em Flask utilizada para o consumo do projeto científico UNESP/Tupã
